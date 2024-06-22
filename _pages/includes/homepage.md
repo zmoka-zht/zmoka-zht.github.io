@@ -1,3 +1,3 @@
 # 📎 Homepages
-- Personal Pages: https://Chen-Yang-Liu.github.io
-- Google Scholar: https://scholar.google.com/citations?user=SCHOLAR_ID&user=jBnA45cAAAAJ
+- Personal Pages: https://zmoka-zht.github.io
+- Google Scholar: https://scholar.google.com.hk/citations?user=c7uR6NUAAAAJ&hl=zh-CN
