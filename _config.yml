@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenyang Liu (刘辰阳)"
+title                    : "Haotian Zhang (张浩田)"
 description              : "Ph.D. Student, Beihang University."
-repository               : "Chen-Yang-Liu/Chen-Yang-Liu.github.io"
+repository               : "zmoka-zht/zmoka-zht.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Chenyang Liu <br /> (刘辰阳)"
+  name             : "Haotian Zhang <br /> (张浩田)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "LEVIR Group"
   location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=jBnA45cAAAAJ"
-  email            : "liuchenyang@buaa.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=c7uR6NUAAAAJ&hl=zh-CN"
+  email            : "haotianzhang@buaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Chen-Yang-Liu"
+  github           : "Hao-Tian-Zhang"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : #"rayeren"
   dblp             : #"https://dblp.org/pid/86/10143.html"
-  orcid            : "https://orcid.org/0000-0003-3034-6646"
+  orcid            : "https://orcid.org/0009-0005-1296-3984"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
