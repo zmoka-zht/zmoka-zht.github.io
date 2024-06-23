@@ -63,7 +63,7 @@ Keyan Chen, Chenyang Liu, Hao Chen, **<font color="#C00000">Haotian Zhang</font>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CrossCD.png"><img src='images/CrossCD.png' alt="SILI" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="Continuous Cross-Resolution Remote Sensing Image Change Detection"><b>Continuous Cross-Resolution Remote Sensing Image Change Detection</b></a> \\
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/10287990"><b>Continuous Cross-Resolution Remote Sensing Image Change Detection</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023* \\
 Hao Chen, **<font color="#C00000">Haotian Zhang</font>**, Keyan Chen, Chenyao Zhou, Song Chen, Zhengxia Zou, and Zhenwei Shi  \\
 [<a href="https://ieeexplore.ieee.org/abstract/document/10287990">PDF</a>] [<a href="https://github.com/justchenhao/SILI_CD">Code</a>] 
