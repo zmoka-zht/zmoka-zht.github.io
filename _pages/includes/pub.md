@@ -8,7 +8,8 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 <a class=PaperTitle href="https://arxiv.org/abs/2406.04207"><b>CDMamba: Remote Sensing Image Change Detection with Mamba</b></a> \\
  *Under review* \\
 **<font color="#C00000">Haotian Zhang</font>**, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2406.04207">PDF</a>] [<a href="https://github.com/zmoka-zht/CDMamba">Code</a>] \\
+[<a href="https://arxiv.org/abs/2406.04207">PDF</a>] 
+[<a href="https://github.com/zmoka-zht/CDMamba">Code</a>] \\
 Media report: [<a href="https://mp.weixin.qq.com/s/gX9QUihC8BN9THzFqMq3hQ">CDMamba：基于Mamba的遥感图像变化检测新框架，核心引入缩放残差卷积Mamba（SRCM）块和自适应全局-局部引导融合（AGLGF）块，性能表现SOTA！！</a>] -- <a href="https://mp.weixin.qq.com/s/gX9QUihC8BN9THzFqMq3hQ">萍哥的CV</a> | <a href="https://mp.weixin.qq.com/s/OXfThGrpjPyhzZcvIl1ANA">AI视界引擎</a>| <a href="https://mp.weixin.qq.com/s/MmkpwEsKkdY_4AparZGKEw">未来先知</a>
 
 </div>
@@ -20,7 +21,8 @@ Media report: [<a href="https://mp.weixin.qq.com/s/gX9QUihC8BN9THzFqMq3hQ">CDMam
 <a class=PaperTitle href="https://arxiv.org/abs/2404.18895"><b>RSCaMa: Remote Sensing Image Change Captioning with State Space Model</b></a> \\
  *IEEE Geoscience and Remote Sensing Letters (GRSL), 2024* \\
 Chenyang Liu, Keyan Chen, Bowen Chen, **<font color="#C00000">Haotian Zhang</font>**, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://ieeexplore.ieee.org/document/10537177">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>] \\
+[<a href="https://ieeexplore.ieee.org/document/10537177">PDF</a>] 
+[<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>] \\
 
 </div>
 </div>
@@ -32,8 +34,8 @@ Chenyang Liu, Keyan Chen, Bowen Chen, **<font color="#C00000">Haotian Zhang</fon
 <a class=PaperTitle href="https://arxiv.org/abs/2403.19646"><b>Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis</b></a> \\
  *Under review* \\
 Chenyang Liu, Keyan Chen, **<font color="#C00000">Haotian Zhang</font>**, Zipeng Qi, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2403.19646">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] \\
-Media report: [<a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">Change-Agent：可交互的遥感变化解译智能体</a>] -- <a href="https://mp.weixin.qq.com/s/FENxlWZqWERS7fFWLwWwTA">遥感与深度学习</a> | <a href="https://mp.weixin.qq.com/s/-iaJjsaEsKr7lkMDEmANVw">我爱计算机视觉</a> | <a href="https://mp.weixin.qq.com/s/aQZTt02obm3MfOtLBAmPTQ"> AIWalker</a> | <a href="https://www.douyin.com/video/7353211020686396713">抖音</a>
+[<a href="https://arxiv.org/abs/2403.19646">PDF</a>] 
+[<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] \\
 
 </div>
 </div>
