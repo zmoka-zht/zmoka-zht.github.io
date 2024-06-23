@@ -1,5 +1,5 @@
 
-# 📝 Publications (ToDo)
+# 📝 Publications
 My full paper list can be found at <a href='https://scholar.google.com.hk/citations?user=c7uR6NUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CDMamba.png"><img src='images/CDMamba.png' alt="CDMamba" width="100%"></a></div></div>
