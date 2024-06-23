@@ -70,3 +70,47 @@ Hao Chen, **<font color="#C00000">Haotian Zhang</font>**, Keyan Chen, Chenyao Zh
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CRFM.png"><img src='images/CRFM.png' alt="CRFM" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/9897563"><b>Context Relation Fusion Model for Visual Question Answering</b></a> \\
+ *IEEE International Conference on Image Processing (ICIP), 2022* \\
+**<font color="#C00000">Haotian Zhang</font>**, Wei Wu \\
+[<a href="https://ieeexplore.ieee.org/abstract/document/9897563">PDF</a>]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CAT.png"><img src='images/CAT.png' alt="CAT" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/9956247"><b>CAT: Re-Conv Attention in Transformer for Visual Question Answering</b></a> \\
+ *IEEE International Conference on Pattern Recognition (ICPR), 2022* \\
+**<font color="#C00000">Haotian Zhang</font>**, Wei Wu \\
+[<a href="https://ieeexplore.ieee.org/abstract/document/9956247">PDF</a>]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/MACM.png"><img src='images/MACM.png' alt="MACM" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/9891983"><b>Multi-Attention Cascade Model Based on Multi-Head Structure for Image-Text Retrieval</b></a> \\
+ *IEEE International Joint Conference on Neural Networks (IJCNN), 2022* \\
+**<font color="#C00000">Haotian Zhang</font>**, Wei Wu, Meng Zhang\\
+[<a href="https://ieeexplore.ieee.org/abstract/document/9891983">PDF</a>]
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/TGAM.png"><img src='images/TGAM.png' alt="TGAM" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="https://ieeexplore.ieee.org/abstract/document/9891887"><b>Transformer Gate Attention Model: An Improved Attention Model for Visual Question Answering</b></a> \\
+ *IEEE International Joint Conference on Neural Networks (IJCNN), 2022* \\
+**<font color="#C00000">Haotian Zhang</font>**, Wei Wu \\
+[<a href="https://ieeexplore.ieee.org/abstract/document/9891887">PDF</a>]
+
+</div>
+</div>
