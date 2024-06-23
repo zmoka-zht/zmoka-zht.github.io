@@ -21,8 +21,7 @@ Media report: [<a href="https://mp.weixin.qq.com/s/gX9QUihC8BN9THzFqMq3hQ">CDMam
 <a class=PaperTitle href="https://arxiv.org/abs/2404.18895"><b>RSCaMa: Remote Sensing Image Change Captioning with State Space Model</b></a> \\
  *IEEE Geoscience and Remote Sensing Letters (GRSL), 2024* \\
 Chenyang Liu, Keyan Chen, Bowen Chen, **<font color="#C00000">Haotian Zhang</font>**, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://ieeexplore.ieee.org/document/10537177">PDF</a>] 
-[<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>] \\
+[<a href="https://ieeexplore.ieee.org/document/10537177">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/RSCaMa">Code</a>] \\
 
 </div>
 </div>
@@ -34,8 +33,7 @@ Chenyang Liu, Keyan Chen, Bowen Chen, **<font color="#C00000">Haotian Zhang</fon
 <a class=PaperTitle href="https://arxiv.org/abs/2403.19646"><b>Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis</b></a> \\
  *Under review* \\
 Chenyang Liu, Keyan Chen, **<font color="#C00000">Haotian Zhang</font>**, Zipeng Qi, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2403.19646">PDF</a>] 
-[<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] \\
+[<a href="https://arxiv.org/abs/2403.19646">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] \\
 
 </div>
 </div>
@@ -43,11 +41,10 @@ Chenyang Liu, Keyan Chen, **<font color="#C00000">Haotian Zhang</font>**, Zipeng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/BiFA.png"><img src='images/BiFA.png' alt="BiFA" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="https://arxiv.org/abs/2306.16269"><b>BiFA: Remote Sensing Image Change Detection With Bitemporal Feature Alignment</b></a> \\
+<a class=PaperTitle href="https://ieeexplore.ieee.org/document/10471555"><b>BiFA: Remote Sensing Image Change Detection With Bitemporal Feature Alignment</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024* \\
 **<font color="#C00000">Haotian Zhang</font>**, Hao Chen, Chenyao Zhou, Keyan Chen, Chenyang Liu, Zhengxia Zou, and Zhenwei Shi  \\
-[<a href="https://ieeexplore.ieee.org/document/10471555">PDF</a>] 
-[<a href="https://github.com/zmoka-zht/BiFA">Code</a>] 
+[<a href="https://ieeexplore.ieee.org/document/10471555">PDF</a>] [<a href="https://github.com/zmoka-zht/BiFA">Code</a>] 
 
 </div>
 </div>
@@ -69,7 +66,7 @@ Keyan Chen, Chenyang Liu, Hao Chen, **<font color="#C00000">Haotian Zhang</font>
 <a class=PaperTitle href="Continuous Cross-Resolution Remote Sensing Image Change Detection"><b>Continuous Cross-Resolution Remote Sensing Image Change Detection</b></a> \\
  *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023* \\
 Hao Chen, **<font color="#C00000">Haotian Zhang</font>**, Keyan Chen, Chenyao Zhou, Song Chen, Zhengxia Zou, and Zhenwei Shi  \\
-[<a href="https://ieeexplore.ieee.org/abstract/document/10287990">PDF</a>]  [<a href="https://github.com/justchenhao/SILI_CD">Code</a>] 
+[<a href="https://ieeexplore.ieee.org/abstract/document/10287990">PDF</a>] [<a href="https://github.com/justchenhao/SILI_CD">Code</a>] 
 
 </div>
 </div>
