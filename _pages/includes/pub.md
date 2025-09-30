@@ -5,7 +5,8 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CDMamba.png"><img src='images/CDMamba.png' alt="CDMamba" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="https://arxiv.org/abs/2406.04207"><b>CDMamba: Incorporating Local Clues Into Mamba for Remote Sensing Image Binary Change Detection</b></a> \\
+<a class=PaperTitle href="[https://arxiv.org/abs/2406.04207](https://ieeexplore.ieee.org/abstract/document/10902569)"><b>CDMamba: Incorporating Local Clues Into Mamba for Remote Sensing Image Binary Change Detection</b></a> \\
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024*
 **<font color="#C00000">Haotian Zhang</font>**, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://ieeexplore.ieee.org/abstract/document/10902569">PDF</a>] 
 [<a href="https://github.com/zmoka-zht/CDMamba">Code</a>] \\
@@ -29,7 +30,7 @@ Chenyang Liu, Keyan Chen, Bowen Chen, **<font color="#C00000">Haotian Zhang</fon
 <div class='paper-box-text' markdown="1">
 
 <a class=PaperTitle href="https://arxiv.org/abs/2403.19646"><b>Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis</b></a> \\
- *Under review* \\
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024*
 Chenyang Liu, Keyan Chen, **<font color="#C00000">Haotian Zhang</font>**, Zipeng Qi, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://arxiv.org/abs/2403.19646">PDF</a>] [<a href="https://github.com/Chen-Yang-Liu/Change-Agent">Code</a>] 
 
