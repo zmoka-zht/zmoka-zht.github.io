@@ -5,10 +5,9 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CDMamba.png"><img src='images/CDMamba.png' alt="CDMamba" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class=PaperTitle href="https://arxiv.org/abs/2406.04207"><b>CDMamba: Remote Sensing Image Change Detection with Mamba</b></a> \\
- *Under review* \\
+<a class=PaperTitle href="https://arxiv.org/abs/2406.04207"><b>CDMamba: Incorporating Local Clues Into Mamba for Remote Sensing Image Binary Change Detection</b></a> \\
 **<font color="#C00000">Haotian Zhang</font>**, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, Zhenwei Shi \\
-[<a href="https://arxiv.org/abs/2406.04207">PDF</a>] 
+[<a href="https://ieeexplore.ieee.org/abstract/document/10902569">PDF</a>] 
 [<a href="https://github.com/zmoka-zht/CDMamba">Code</a>] \\
 Media report: [<a href="https://mp.weixin.qq.com/s/gX9QUihC8BN9THzFqMq3hQ">CDMamba：基于Mamba的遥感图像变化检测新框架，核心引入缩放残差卷积Mamba（SRCM）块和自适应全局-局部引导融合（AGLGF）块，性能表现SOTA！！</a>] -- <a href="https://mp.weixin.qq.com/s/gX9QUihC8BN9THzFqMq3hQ">萍哥的CV</a> | <a href="https://mp.weixin.qq.com/s/OXfThGrpjPyhzZcvIl1ANA">AI视界引擎</a>| <a href="https://mp.weixin.qq.com/s/MmkpwEsKkdY_4AparZGKEw">未来先知</a>
 
