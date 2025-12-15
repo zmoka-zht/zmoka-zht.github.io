@@ -2,6 +2,18 @@
 # 📝 Publications
 My full paper list can be found at <a href='https://scholar.google.com.hk/citations?user=c7uR6NUAAAAJ&hl=zh-CN'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/FoBa.png"><img src='images/FoBa.png' alt="FoBa" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class=PaperTitle href="[[https://arxiv.org/abs/2406.04207](https://ieeexplore.ieee.org/document/11268372)]([https://ieeexplore.ieee.org/abstract/document/10902569](https://ieeexplore.ieee.org/document/11268372))"><b>FoBa: A Foreground–Background Co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection</b></a> \\
+*IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025*
+**<font color="#C00000">Haotian Zhang</font>**, Han Guo, Keyan Chen, Hao Chen, Zhengxia Zou, Zhenwei Shi \\
+[<a href="https://ieeexplore.ieee.org/document/11268372">PDF</a>] 
+[<a href="https://github.com/zmoka-zht/FoBa">Code</a>] \\
+</a>
+
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/CDMamba.png"><img src='images/CDMamba.png' alt="CDMamba" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -10,7 +22,7 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 **<font color="#C00000">Haotian Zhang</font>**, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://ieeexplore.ieee.org/abstract/document/10902569">PDF</a>] 
 [<a href="https://github.com/zmoka-zht/CDMamba">Code</a>] \\
-Media report: [<a href="https://mp.weixin.qq.com/s/gX9QUihC8BN9THzFqMq3hQ">CDMamba：基于Mamba的遥感图像变化检测新框架，核心引入缩放残差卷积Mamba（SRCM）块和自适应全局-局部引导融合（AGLGF）块，性能表现SOTA！！</a>] -- <a href="https://mp.weixin.qq.com/s/gX9QUihC8BN9THzFqMq3hQ">萍哥的CV</a> | <a href="https://mp.weixin.qq.com/s/OXfThGrpjPyhzZcvIl1ANA">AI视界引擎</a>| <a href="https://mp.weixin.qq.com/s/MmkpwEsKkdY_4AparZGKEw">未来先知</a>
+</a>
 
 </div>
 </div>
