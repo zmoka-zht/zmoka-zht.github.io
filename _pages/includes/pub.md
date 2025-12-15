@@ -21,8 +21,7 @@ My full paper list can be found at <a href='https://scholar.google.com.hk/citati
 *IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024*
 **<font color="#C00000">Haotian Zhang</font>**, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, Zhenwei Shi \\
 [<a href="https://ieeexplore.ieee.org/abstract/document/10902569">PDF</a>] 
-[<a href="https://github.com/zmoka-zht/CDMamba">Code</a>] \\
-</a>
+[<a href="https://github.com/zmoka-zht/CDMamba">Code</a>] 
 
 </div>
 </div>
